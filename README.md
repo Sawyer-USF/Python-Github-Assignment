@@ -1,5 +1,3 @@
-# Python-Github-Assignment
-
 # Study Time Tracker
 
 Study Time Tracker is a small Python program that asks the user how many hours they studied today and estimates how many hours they will study in one week if they keep the same pace. It also includes simple error handling so the program does not crash when the user enters text instead of a number.
